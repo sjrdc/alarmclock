@@ -26,6 +26,7 @@
 * [cmake](https://cmake.org) >= 3.14
 * [google test](https://github.com/google/googletest) >= 1.10
 
+[raspberry pi pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
