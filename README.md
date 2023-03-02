@@ -12,7 +12,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![GPLv3 License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]
 
 [![build and test](https://github.com/sjrdc/px/actions/workflows/cmake.yml/badge.svg)](https://github.com/sjrdc/px/actions/workflows/cmake.yml)
 
@@ -64,13 +64,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sjrdc/px.svg?style=flat-square
-[contributors-url]: https://github.com/sjrdc/px/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sjrdc/px.svg?style=flat-square
-[forks-url]: https://github.com/sjrdc/px/network/members
-[stars-shield]: https://img.shields.io/github/stars/sjrdc/px.svg?style=flat-square
-[stars-url]: https://github.com/sjrdc/px/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sjrdc/px.svg?style=flat-square
-[issues-url]: https://github.com/sjrdc/px/issues
-[license-shield]: https://img.shields.io/github/license/sjrdc/px.svg?style=flat-square
-[license-url]: https://github.com/sjrdc/px/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/sjrdc/alarmclock.svg?style=flat-square
+[contributors-url]: https://github.com/sjrdc/alarmclock/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sjrdc/alarmclock.svg?style=flat-square
+[forks-url]: https://github.com/sjrdc/alarmclock/network/members
+[stars-shield]: https://img.shields.io/github/stars/sjrdc/alarmclock.svg?style=flat-square
+[stars-url]: https://github.com/sjrdc/alarmclock/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sjrdc/alarmclock.svg?style=flat-square
+[issues-url]: https://github.com/sjrdc/alarmclock/issues
+[license-shield]: https://img.shields.io/github/license/sjrdc/alarmclock.svg?style=flat-square
+[license-url]: https://github.com/sjrdc/alarmclock/blob/main/LICENSE
